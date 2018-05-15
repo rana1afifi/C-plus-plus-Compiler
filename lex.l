@@ -1,7 +1,7 @@
 %{
 #include <stdlib.h>
 #include <string.h>
-#include "parse.tab.h"
+#include "y.tab.h"
 
 
 int yylineno;
